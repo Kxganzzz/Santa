@@ -10,15 +10,15 @@ global.APIKeys = {
 	'https://api.zeeoneofc.my.id': 'Your Key',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
-global.footer_text = "© " + namabot
+global.namabot = "Framzz"
+global.namaowner = "Framzofc"
+global.packname = SantaXz
+global.author = Framz
+global.myweb = "https://tinnz.me"
+global.footer_text = "© " + SantaCruz
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['62881038017683']
 global.pairingNumber = "" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
